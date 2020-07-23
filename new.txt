@@ -1,3 +1,0 @@
-this is some thing i wanted to check from second developer to first developer.
-:wq
-
